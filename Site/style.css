@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+.hero-content {
+      background: url('../Images/white-wood-background.jpg') !important;
+}
+
+.navbar {
+
+  background: white !important;
+  background-repeat: repeat;
+}
+
+.Business-Name {
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.Business-Name-Black {
+
+font-family: 'Montserrat', sans-serif;
+color:black;
+
+}
+
+.hero{
+
+    background: url('../Images/multiple-tables.jpg') !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+
+
+}
+
+h2, h4, p, h3 {
+
+  font-family: 'Montserrat', sans-serif !important;
+
+}
+
+h3 {
+
+  font-size: 12px !important;
+
+}
+.preview-pic {
+
+  height: 142px;
+  width: 142px;
+
+}
